@@ -1,3 +1,7 @@
+This is the final project of ICE2605, Signals and System, IEEE Honor Class, SJTU.
+My lecturer is Bo Jiang.
+
+Contents:
 * Report and figures are stored in the folder named "report and figure".
 * Codes are stored in the folder named "code and audio".
   * The folder named "part1" stores the MATLAB code for part1. 
@@ -12,3 +16,4 @@
     * Plotwave.m, PlotSpectrum.m and PlotSpectrumLocal.m are the same as those in part1.
     * ta.wav is the original audio clip, and ta0.wav-wa6.wav are the sampled version of ta.wav
 
+Note: project.pdf is the question by my teacher, I have no copyright of it.
